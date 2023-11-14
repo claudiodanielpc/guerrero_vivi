@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "obj_type": "214-Bridges, Elevated Highways, Tunnels and Subways", "name": "Unknown", "info": "2141-Bridges and elevated highways", "simplified": "Bridges and elevated highways", "damage_gra": "Possibly damaged", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ -99.808049886, 16.899992730000065 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "214-Bridges, Elevated Highways, Tunnels and Subways", "name": "Unknown", "info": "2141-Bridges and elevated highways", "simplified": "Bridges and elevated highways", "damage_gra": "Damaged", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ -99.818240939999953, 16.88821015700006 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "214-Bridges, Elevated Highways, Tunnels and Subways", "name": "Unknown", "info": "2141-Bridges and elevated highways", "simplified": "Bridges and elevated highways", "damage_gra": "Possibly damaged", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ -99.803530490999947, 16.956025300000022 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "214-Bridges, Elevated Highways, Tunnels and Subways", "name": "Unknown", "info": "2141-Bridges and elevated highways", "simplified": "Bridges and elevated highways", "damage_gra": "Destroyed", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ -99.801852014999952, 16.953052711000055 ] } }
+
+]
+}
